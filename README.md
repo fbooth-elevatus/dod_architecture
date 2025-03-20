@@ -14,24 +14,22 @@ The purpose of this document is to outline the principles, security controls, an
 
 ## **Key Areas of Focus**
 
-### **Cloud Security & Architecture**
-- **[Cloud Security Architect](./Cloud_Security_Architecture/Cloud_Security_Architect/)**
-- **Secure Cloud Infrastructure Design**
-- **Cloud Security Architectures (SaaS, application management, customer data, security control planes)**
-- **Cloud Infrastructure Design and Deployment**
-- **Cloud APIs and Identity Management**
-- **Secure Cloud Architectures for FedRAMP & IL4+**
-- **Multi-Cloud Security (AWS GovCloud, Azure Government, GCP Assured Workloads)**
+### **[Cloud Security & Architecture](./Cloud_Security_Architecture/README.md)**
+- **[Cloud Security Architect](./Cloud_Security_Architecture/Cloud_Security_Architect/Cloud_Security_Architect.md)**
+- **[Cloud Security Architectures (SaaS, application management, customer data, security control planes)](./Cloud_Security_Architecture/Cloud_Security_Architectures.md)**
+- **[Cloud Infrastructure Design and Deployment](./Cloud_Security_Architecture/Cloud_Infrastructure_Design_Deployment.md)**
+- **[Cloud APIs and Identity Management](./Cloud_Security_Architecture/Cloud_API_Identity_Management.md)**
+- **[Multi-Cloud Security (AWS GovCloud, Azure Government, GCP Assured Workloads)](./Cloud_Security_Architecture/Multi-Cloud_Security.md)**
 
-### **Compliance & Regulatory Frameworks**
-- **FedRAMP (High) Compliance**
-- **Department of Defense Impact Level 5 (IL5)**
-- **NIST 800-53 Security Controls**
-- **NIST 800-171 (CUI Protection)**
-- **CMMC (Cybersecurity Maturity Model Certification)**
-- **FIPS 140-2 Encryption Compliance**
-- **Continuous ATO (cATO)**
-- **Change Management & Security Impact Analysis (SIA)**
+### **[Compliance & Regulatory Frameworks](./Compliance_Regulatory_Frameworks/README.md)**
+- **[FedRAMP](./Compliance_Regulatory_Frameworks/FedRAMP.md)**
+- **[Department of Defense Impact Level 5 (IL5)](./Compliance_Regulatory_Frameworks/IL5.md)**
+- **[NIST 800-53 Security Controls](./Compliance_Regulatory_Frameworks/NIST_800-53.md)**
+- **[NIST 800-171 (CUI Protection)](./Compliance_Regulatory_Frameworks/NIST_800-171.md)**
+- **[CMMC (Cybersecurity Maturity Model Certification)](./Compliance_Regulatory_Frameworks/CMMC.md)**
+- **[FIPS 140-2 Encryption Compliance](./Compliance_Regulatory_Frameworks/FIPS_140-2.md)**
+- **[Continuous ATO (cATO)](./Compliance_Regulatory_Frameworks/cATO.md)**
+- **[Change Management & Security Impact Analysis (SIA)](./Compliance_Regulatory_Frameworks/Change_Management_Security_Impact_Analysis.md)**
 
 ### **Security Controls & Technologies**
 - **Identity & Access Management (IAM, RBAC, ABAC)**

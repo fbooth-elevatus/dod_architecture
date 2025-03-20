@@ -70,10 +70,3 @@ A **Cloud Security Architect** is responsible for designing, implementing, and m
 | **Network Security & Firewalls** | Palo Alto, AWS WAF, Cloudflare, Zero Trust Network Access |
 | **Compliance Automation** | AWS Config, Azure Policy, OpenSCAP, Security Scorecards |
 
----
-
-## **Next Steps**
-- Strengthen expertise in **FedRAMP & IL4-IL6 cloud security models**.
-- Automate **continuous compliance monitoring** using DevSecOps pipelines.
-- Enhance **threat intelligence capabilities** for proactive security defense.
-- Stay updated on **emerging cloud security trends and adversary tactics**.
