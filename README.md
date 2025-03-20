@@ -50,19 +50,19 @@ The purpose of this document is to outline the principles, security controls, an
 - **[Threat Modeling (MITRE ATT&CK, STRIDE)](./SecDevOps/Threat_Modeling.md)**
 - **[Secure SLDC with SAFe Agile](./SecDevOps/SecSLDC_SAFe_Agile.md)**
 
-### **Incident Response & Risk Management**
-- **Incident Response Plan (IRP)**
-- **Vulnerability Management & Threat Analysis**
-- **Continuous Monitoring & Security Logging**
-- **Security Risk Assessments & Auditing**
-- **Security Control Plane Design & Governance**
+### **[Incident Response & Risk Management](./Incident_Response_Risk_Management/README.md)**
+- **[Incident Response Plan (IRP)](./Incident_Response_Risk_Management/Incident_Response_Plan.md)**
+- **[Vulnerability Management & Threat Analysis](./Incident_Response_Risk_Management/Vulnerability_Management.md)**
+- **[Continuous Monitoring & Security Logging](./Incident_Response_Risk_Management/Continuous_Monitoring.md)**
+- **[Security Risk Assessments & Auditing](./Incident_Response_Risk_Management/Security_Risk_Assessments.md)**
+- **[Security Control Plane Design & Governance](./Incident_Response_Risk_Management/Security_Control_Plane.md)**
 
-### **Defense & DoD Requirements**
-- **Controlled Unclassified Information (CUI) Protection**
-- **CAC/PIV Authentication for DoD Compliance**
-- **Cross-Domain Security & Multi-Tenancy Isolation**
-- **Secure Software Supply Chain Management**
-- **Network Security & Threat Intelligence for DoD IL4+**
+### **[Defense & DoD Requirements](./Defense_DoD_Requirements/README.md)**
+- **[Controlled Unclassified Information (CUI) Protection](./Defense_DoD_Requirements/Controlled_Unclassified_Information.md)**
+- **[CAC/PIV Authentication for DoD Compliance](./Defense_DoD_Requirements/CAC_PIV_Auth.md)**
+- **[Cross-Domain Security & Multi-Tenancy Isolation](./Defense_DoD_Requirements/Cross_Domain_Security.md)**
+- **[Secure Software Supply Chain Management](./Defense_DoD_Requirements/Secure_Software_Supply_Chain_Management.md)**
+- **[Network Security & Threat Intelligence for DoD IL4+](./Defense_DoD_Requirements/Network_Security_Threat_Intelligence.md)**
 
 ---
 
