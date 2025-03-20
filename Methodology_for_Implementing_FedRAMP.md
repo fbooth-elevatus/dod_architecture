@@ -13,7 +13,7 @@ This document outlines a structured methodology for implementing **FedRAMP (High
 - Document **Authorization Boundary Diagrams** to clearly define what is in-scope.
 - Ensure compliance with **Controlled Unclassified Information (CUI) protection**.
 
-✅ **Deliverable:** Authorization Boundary Documentation
+✅ **Deliverable:** [Authorization Boundary Documentation](./Deliverables/Authorization_Boundary_Documentation.md)
 
 ---
 
@@ -23,7 +23,7 @@ This document outlines a structured methodology for implementing **FedRAMP (High
 - Define **Zero Trust Architecture** principles.
 - Document control mappings in a **Security Control Traceability Matrix**.
 
-✅ **Deliverable:** FedRAMP Control Mapping Table
+✅ **Deliverable:** [FedRAMP Control Mapping Table](./Deliverables/FedRAMP_Control_Mapping_Table.md)
 
 ---
 
@@ -34,7 +34,7 @@ This document outlines a structured methodology for implementing **FedRAMP (High
 - **Logging & Monitoring:** Enable **SIEM, CloudTrail, Security Hub, and Azure Sentinel**.
 - **DevSecOps:** Secure **CI/CD pipelines, container scanning, IaC enforcement**.
 
-✅ **Deliverable:** SaaS Security Architecture Blueprint
+✅ **Deliverable:** [SaaS Security Architecture Blueprint](./Deliverables/SaaS_Security_Architecture_Blueprint.md)
 
 ---
 
@@ -44,7 +44,7 @@ This document outlines a structured methodology for implementing **FedRAMP (High
 - Conduct **FedRAMP readiness assessments** with a Third-Party Assessment Organization (3PAO).
 - Establish a **Change Control & Security Impact Analysis (SIA) process**.
 
-✅ **Deliverable:** FedRAMP Compliance Documentation Package
+✅ **Deliverable:** [FedRAMP Compliance Documentation Package](./Deliverables/FedRAMP_Compliance_Documentation_Package.md)
 
 ---
 
@@ -54,7 +54,7 @@ This document outlines a structured methodology for implementing **FedRAMP (High
 - Conduct **regular risk assessments, penetration testing, and compliance audits**.
 - Integrate **real-time threat intelligence & security analytics**.
 
-✅ **Deliverable:** Continuous Monitoring & Risk Management Plan
+✅ **Deliverable:** [Continuous Monitoring & Risk Management Plan](./Deliverables/Continuous_Monitoring_Risk_Management_Plan.md)
 
 ---
 
